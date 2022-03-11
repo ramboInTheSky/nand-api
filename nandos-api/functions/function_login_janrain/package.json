@@ -1,0 +1,8 @@
+{
+  "name": "function_login_janrain",
+  "version": "1.0.0",
+  "description": "This repository contains all the configuration files to deploy the IDP API onto AWS Lambda and expose them via AWS API Gateway",
+  "dependencies": {
+    "jsonwebtoken": "^8.3.0"
+  }
+}

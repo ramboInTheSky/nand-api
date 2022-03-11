@@ -1,0 +1,10 @@
+stageName: dev
+  auth0-host: nandosidam.eu.auth0.com
+  auth0-api-port: 443
+  auth0-client-id: JXCE5sjNdY6PH4Wjtfx14Y8eiS9VOpmC
+  auth0-oauth-api: /oauth/token
+
+  janrain-host: nandos.eu-eval.janraincapture.com
+  janrain-api-port: 443
+  janrain-client-id: a5hak6w8qgemy5jdz3qk4jq6k3f5zam5
+  janrain-oauth-api: /oauth/auth_native_traditional
